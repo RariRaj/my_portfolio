@@ -1189,3 +1189,7 @@ footer{
 
 }
 
+.featured-container + .featured-container {
+    margin-top: 50px;
+}
+
